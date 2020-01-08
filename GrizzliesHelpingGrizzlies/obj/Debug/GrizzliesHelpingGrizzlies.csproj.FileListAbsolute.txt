@@ -1,0 +1,10 @@
+C:\Users\asfar\source\repos\GrizzliesHelpingGrizzlies\GrizzliesHelpingGrizzlies\bin\Debug\GrizzliesHelpingGrizzlies.exe.config
+C:\Users\asfar\source\repos\GrizzliesHelpingGrizzlies\GrizzliesHelpingGrizzlies\bin\Debug\GrizzliesHelpingGrizzlies.exe
+C:\Users\asfar\source\repos\GrizzliesHelpingGrizzlies\GrizzliesHelpingGrizzlies\bin\Debug\GrizzliesHelpingGrizzlies.pdb
+C:\Users\asfar\source\repos\GrizzliesHelpingGrizzlies\GrizzliesHelpingGrizzlies\obj\Debug\GrizzliesHelpingGrizzlies.csprojAssemblyReference.cache
+C:\Users\asfar\source\repos\GrizzliesHelpingGrizzlies\GrizzliesHelpingGrizzlies\obj\Debug\GrizzliesHelpingGrizzlies.Form1.resources
+C:\Users\asfar\source\repos\GrizzliesHelpingGrizzlies\GrizzliesHelpingGrizzlies\obj\Debug\GrizzliesHelpingGrizzlies.Form2.resources
+C:\Users\asfar\source\repos\GrizzliesHelpingGrizzlies\GrizzliesHelpingGrizzlies\obj\Debug\GrizzliesHelpingGrizzlies.Properties.Resources.resources
+C:\Users\asfar\source\repos\GrizzliesHelpingGrizzlies\GrizzliesHelpingGrizzlies\obj\Debug\GrizzliesHelpingGrizzlies.csproj.GenerateResource.cache
+C:\Users\asfar\source\repos\GrizzliesHelpingGrizzlies\GrizzliesHelpingGrizzlies\obj\Debug\GrizzliesHelpingGrizzlies.exe
+C:\Users\asfar\source\repos\GrizzliesHelpingGrizzlies\GrizzliesHelpingGrizzlies\obj\Debug\GrizzliesHelpingGrizzlies.pdb
